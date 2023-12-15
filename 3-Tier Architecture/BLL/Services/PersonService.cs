@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using BLL.DTOs;
+using DAL;
 using DAL.EF.Models;
 using DAL.Repos;
 using System;
@@ -14,7 +15,7 @@ namespace BLL.Services
     {
        public static List<PersonDTO> Get()
         {
-            var data = PersonRepo.Get();
+            var data = DataAccessFactory.PersonData().Get();
             var config = new MapperConfiguration(cfg =>
             {
                 cfg.CreateMap<Person, PersonDTO>();
@@ -31,7 +32,7 @@ namespace BLL.Services
             });
             var mapper = new Mapper(config);
             var data = mapper.Map<Person>(p);
-            return PersonRepo.Add(data);
+            return DataAccessFactory.PersonData().Add(data);
         }
          
     }
