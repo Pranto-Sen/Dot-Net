@@ -72,3 +72,7 @@ D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\DAL.pdb
 D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\EntityFramework.dll
 D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\DAL.dll.config
 D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\EntityFramework.xml
+D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\AutoMapper.dll
+D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\AutoMapper.xml
+D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio\Dot Net\3-Tier Architecture\ApiAppLayer\bin\EntityFramework.SqlServer.xml

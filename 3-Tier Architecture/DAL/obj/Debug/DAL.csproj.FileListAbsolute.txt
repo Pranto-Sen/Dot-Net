@@ -10,5 +10,5 @@ D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\bin\Debug\EntityFramework.SqlSe
 D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\bin\Debug\EntityFramework.xml
 D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\obj\Debug\DAL.csproj.CopyComplete
-D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\obj\Debug\DAL.Migrations.init.resources
+D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\obj\Debug\DAL.Migrations.initdb.resources
 D:\Visual Studio\Dot Net\3-Tier Architecture\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -54,9 +54,9 @@
     <Compile Include="Class1.cs" />
     <Compile Include="EF\Models\Person.cs" />
     <Compile Include="EF\PContext.cs" />
-    <Compile Include="Migrations\202312142119339_init.cs" />
-    <Compile Include="Migrations\202312142119339_init.designer.cs">
-      <DependentUpon>202312142119339_init.cs</DependentUpon>
+    <Compile Include="Migrations\202312150953163_initdb.cs" />
+    <Compile Include="Migrations\202312150953163_initdb.designer.cs">
+      <DependentUpon>202312150953163_initdb.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -67,8 +67,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202312142119339_init.resx">
-      <DependentUpon>202312142119339_init.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202312150953163_initdb.resx">
+      <DependentUpon>202312150953163_initdb.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
